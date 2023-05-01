@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "code": "class_chocolate_paris",
+        "title": "Atelier chocolat à l'Atelier Chocolaterie",
+        "days": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "base_rate_adult": 40,
+        "base_rate_child": 20,
+        "fixed_rate": null,
+        "images": [
+            "https://images.pexels.com/photos/6036367/pexels-photo-6036367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "type": "gastronomy",
+        "sub_type": {
+            "id": "lesson",
+            "label": "Atelier"
+        },
+        "description": "Imaginez vos propres créations en chocolat à l'Atelier Chocolaterie. Apprenez-en davantage sur les techniques de trempage auprès d'un chocolatier. Décorez votre chocolat avec un assortiment de garnitures."
+    },
+    {
+        "id": 2,
+        "code": "visit_harry-potter_edinburg",
+        "title": "Visite à pied sur les traces de Harry Potter ",
+        "days": [
+            6,
+            0
+        ],
+        "base_rate_adult": null,
+        "base_rate_child": null,
+        "fixed_rate": 20,
+        "images": [
+            "https://images.pexels.com/photos/8391439/pexels-photo-8391439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ],
+        "type": "culture",
+        "sub_type": {
+            "id": "visit",
+            "label": "Visite guidée"
+        },
+        "description": "Profitez d'une visite guidée à pied dans Édimbourg et découvrez la ville qui a inspiré l'univers de Harry Potter. Testez vos connaissances avec un quiz audiovisuel, découvrez à quelle maison vous appartenez et visitez la tombe de Tom Jedusor. "
+    }
+]
